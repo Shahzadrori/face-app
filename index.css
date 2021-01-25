@@ -1,0 +1,23 @@
+body{
+   margin: auto;
+   padding: 0%;
+   box-sizing: border-box;
+   font-family: 'Luckiest Guy', cursive;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* width: 90rem; */
+}
+.nme{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* height: 50vh; */
+}
+img{
+    margin-top: 10px;
+}
